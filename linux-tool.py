@@ -50,7 +50,7 @@ sqlmap = fade.pinkred(sqlmap)
 print(sqlmap)
 print(Fore.BLUE+'[1]Vérifier si un site a des failles SQL (via sqlmap')
 print(Fore.RED+'[2]Scanner Une adresse ip (via autorecon')
-print(Fore.GREEN+'[3]Installer Tout Les tools nécessaire pour ce multitool')
+print(Fore.GREEN+'[3]Installer Tout Les tools nécessaire pour ce multitool (tres important !)')
 print(Fore.YELLOW+'[4]Quitter')
 choice = input(choix)
 if "1" in choice.lower():
