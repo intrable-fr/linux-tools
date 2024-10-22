@@ -11,6 +11,7 @@ setup = """
 /\____) || (____/\   | |   | (___) || )      
 \_______)(_______/   )_(   (_______)|/       
 [!]Bienvenue dans le Menu d'installations , cela installer que les modules python
+[!]quand vous serrez sur le main , avant d'utiliser chaque programme , faites bien l'option 3
 """
 print(setup)
 print('[*]Les Modules vont etres installer dans 3 seconde')
