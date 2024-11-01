@@ -23,5 +23,4 @@ python3 linux-tools.py
 
 - **[GitHub](https://github.com/intrable-fr) 🗿**
 - **[Guns.lol](https://guns.lol/scriptkiddies) 🔫**
-- **[Discord](https://discord.com/users/1163474161826529373) 💻**
 - **[Email](mailto:contactsecret@mail2tor.com) 🎯**
